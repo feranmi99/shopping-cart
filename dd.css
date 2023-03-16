@@ -1,0 +1,10 @@
+#one:hover {
+transform: scale(1.1,1.1);
+}
+#hover:hover {
+    box-shadow: 1px 5px 3px #bebaba86;
+    transform: scale(1.1,1.1);
+}
+body{
+    background-color: whitesmoke;
+}
